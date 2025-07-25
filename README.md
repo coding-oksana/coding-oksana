@@ -18,5 +18,5 @@ I'm passionate about front-end development and have **5 years of experience** bu
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/coding_oksana/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oksana-popovichenko/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/coding_oksana/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oksana-popovichenko/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)](https://www.pinterest.com/coding_oksana/)
 
