@@ -2,7 +2,7 @@
 
 I'm Oksana, a **Software Engineer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b> Kharkiv, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b> Toulouse, France.</b>
 
-I'm passionate about front-end development and have **5 years of experience** building responsive and user-friendly web applications.
+I'm passionate about front-end development and have **6+ years of experience** building responsive and user-friendly web applications.
 
 ## 🛠 Skills
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
